@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevloperMahak
+- 👋 Hi, I’m Mahak Gupta
 - 👀 I’m interested in Web Development and App Development
 - 🌱 I’m currently learning DSA in java
 - 💞️ I’m looking to collaborate on Web and App Projects
