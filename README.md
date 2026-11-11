@@ -131,9 +131,7 @@ I enjoy transforming ideas into practical products, exploring emerging technolog
     alt="GitHub Contribution Streak"
   />
 </p>
-
 ---
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
