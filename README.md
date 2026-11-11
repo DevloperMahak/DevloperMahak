@@ -110,16 +110,26 @@ I enjoy transforming ideas into practical products, exploring emerging technolog
 - AI integration in modern applications
 
 ---
-
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devlopermahak&show_icons=true&theme=default&hide_border=true&include_all_commits=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devlopermahak&layout=compact&theme=default&hide_border=true" height="180" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Devlopermahak&show_icons=true&theme=default&hide_border=true&include_all_commits=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devlopermahak&layout=compact&theme=default&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devlopermahak&theme=default&hide_border=true" alt="GitHub Contribution Streak" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Devlopermahak&theme=default&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
