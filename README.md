@@ -137,7 +137,7 @@ I enjoy transforming ideas into practical products, exploring emerging technolog
 
 <p align="center">
   <img
-    src="https://mahak-github-trophy-generator-2026.vercel.app/?username=Devlopermahak&theme=flat&no-frame=true&no-bg=true&margin-w=4"
+    src="https://mahak-github-trophy-generator-2026.vercel.app/?username=Devlopermahak"
     alt="GitHub Trophies"
   />
 </p>
