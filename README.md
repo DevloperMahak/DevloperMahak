@@ -132,6 +132,7 @@ I enjoy transforming ideas into practical products, exploring emerging technolog
   />
 </p>
 
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -140,6 +141,7 @@ I enjoy transforming ideas into practical products, exploring emerging technolog
     alt="GitHub Trophies"
   />
 </p>
+
 
 ---
 
