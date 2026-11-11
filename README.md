@@ -128,6 +128,15 @@ I enjoy transforming ideas into practical products, exploring emerging technolog
   />
 </p>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Devlopermahak&theme=flat&no-frame=true&no-bg=true&margin-w=4"
+    alt="GitHub Trophies"
+  />
+</p>
+
 ## 🌐 Connect With Me
 
 <p align="left">
