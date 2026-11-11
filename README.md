@@ -114,12 +114,12 @@ I enjoy transforming ideas into practical products, exploring emerging technolog
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Devlopermahak&show_icons=true&theme=default&hide_border=true&include_all_commits=true"
+    src="https://github-stats-extended.vercel.app/api?username=Devlopermahak&show_icons=true&theme=default&hide_border=true"
     height="180"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devlopermahak&layout=compact&theme=default&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Devlopermahak&layout=compact&theme=default&hide_border=true"
     height="180"
     alt="Top Languages"
   />
