@@ -163,9 +163,19 @@ I enjoy transforming ideas into practical products, exploring emerging technolog
 
 ---
 
+
+---
+
+## ✨ Random Dev Quote
+
 <p align="center">
-  <i>"Building ideas into products, one line of code at a time."</i>
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+    alt="Random Developer Quote"
+  />
 </p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Devlopermahak&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
