@@ -147,6 +147,9 @@ I enjoy transforming ideas into practical products, exploring emerging technolog
 
 ## 🌐 Connect With Me
 
+
+## 🌐 Connect With Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/mahak-gupta-88835226a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
@@ -154,10 +157,14 @@ I enjoy transforming ideas into practical products, exploring emerging technolog
   <a href="mailto:mahakguptaji2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-<a href="https://www.instagram.com/onfire_mahak/">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+  <a href="https://www.instagram.com/onfire_mahak/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://x.com/MahakGupta74065">
+    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
 </p>
+
 
 📧 **Email:** mahakguptaji2005@gmail.com
 
