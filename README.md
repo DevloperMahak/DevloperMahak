@@ -145,8 +145,6 @@ I enjoy transforming ideas into practical products, exploring emerging technolog
 
 ---
 
-## 🌐 Connect With Me
-
 
 ## 🌐 Connect With Me
 
